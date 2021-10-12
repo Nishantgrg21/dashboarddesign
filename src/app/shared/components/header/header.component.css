@@ -1,0 +1,65 @@
+*{
+    background-color: #292929;
+    color:#fff;
+}
+.nav-link {
+    padding: 0rem 1rem;
+}
+.nav-link, .user-info{
+    color:#fff;
+}
+.user-info{
+    padding: 0 10px;
+    display: grid;
+}
+.user-name{
+    color:#ffffff ;
+    font-size: 14px;
+    margin-bottom: 0px;
+}
+.user-profile{
+    color:#b9b9b9 ;
+    font-size: 8px;
+    margin-bottom: 0px;
+}
+
+.line{
+    border: 0.2px solid #0000008F;
+    height:45px;
+    margin: 0 5px 0 15px;
+}
+.cursor{
+    cursor: pointer;
+}
+.dropdown-menu{
+    padding: 0;
+    border: 1px solid black;
+}
+
+.dropdown-menu a:hover{
+    color:#df8f01;
+}
+ .dropdown-item {
+    background: black;
+    margin: 0px;
+    padding: 5px 5px;
+    font-size: 14px;
+    color: #fff;
+}
+
+hr{
+margin:0;
+background: #808080;
+}
+
+.ml-auto {
+    margin-left: auto!important;
+}
+
+.f-size{
+    font-size:20px;
+}
+
+.b-dark{
+    background: #000;
+}
